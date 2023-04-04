@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "lp-dim-uit-app-lupini": {
+      "hosting": {
+        "iut_app": [
+          "lp-dim-uit-app-lupini"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "lp-dim-uit-app-lupini"
+  }
+}
